@@ -1,0 +1,22 @@
+body{
+   font-size: 36pt;
+  
+}
+
+.pedra {
+	background-color:white; 
+	color: black;
+	margin:0;
+	padding:0;
+	font-size: 1em;			
+}
+
+.pedra.carroca{
+	letter-spacing: -0.45em;
+}
+
+#mesa{
+	margin: 3em 20%;
+	border: 2px solid black;
+	background-color: #efefef;
+}
